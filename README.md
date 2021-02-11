@@ -1,5 +1,5 @@
-## Empty Example for P5.js
-#### by Scott Kildall
+## simple shapes for P5.js
+#### by joshua wilder oakley
 
 
 
